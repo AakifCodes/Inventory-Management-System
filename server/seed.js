@@ -23,3 +23,5 @@ const register = async () => {
         
     }
 }
+
+register()
